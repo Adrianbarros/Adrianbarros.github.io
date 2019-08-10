@@ -45,6 +45,7 @@ img{
    
 }    
 .proj{
+    
     text-align: center; 
     background-color: #9DD1F1;
     border-radius: 20px;
@@ -53,6 +54,4 @@ img{
     padding: 15px;
     margin-left: 12%;   
     margin-top: 0em;
-   
-
 }
