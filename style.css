@@ -29,7 +29,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-    border: 10px;
+   
     border: 10px solid burlywood;
 }
 .int{
@@ -44,3 +44,15 @@ img{
     margin-top: 0em;
    
 }    
+.proj{
+    text-align: center; 
+    background-color: #9DD1F1;
+    border-radius: 20px;
+    display: inline-block;
+    width: 72%;
+    padding: 15px;
+    margin-left: 12%;   
+    margin-top: 0em;
+   
+
+}
