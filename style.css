@@ -47,11 +47,15 @@ img{
 .proj{
     
     text-align: center; 
-    background-color:lightblue;
+    background-color:#9DD1F1;
     border-radius: 20px;
     display: inline-block;
     width: 72%;
     padding: 15px;
     margin-left: 12%;   
     margin-top: 0em;
+}
+footer{
+    display: block;
+    background-color: green;
 }
