@@ -12,11 +12,12 @@ h2{
 }
 body{
     display: block;
-    background-image: linear-gradient(to bottom right, teal, white);
+    background-image: linear-gradient(to bottom right, teal, lightblue, white);
 }
 .summary {
     text-align: center; 
-    background-color: #9DD1F1;
+    color: white;
+    background-color: rgb(116, 134, 145);
     border-radius: 20px;
     display: inline-block;
     margin: 100px;
@@ -34,9 +35,9 @@ body{
     border: 10px solid burlywood;
 }
 .int{
-
+    color: white;
     text-align: center; 
-    background-color: #9DD1F1;
+    background-color: rgb(116, 134, 145);
     border-radius: 20px;
     display: inline-block;
     width: 72%;
@@ -46,9 +47,9 @@ body{
    
 }    
 .proj{
-    
+    color: white;
     text-align: center; 
-    background-color:#9DD1F1;
+    background-color:rgb(116, 134, 145);
     border-radius: 20px;
     display: inline-block;
     width: 72%;
