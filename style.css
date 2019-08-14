@@ -56,6 +56,7 @@ body{
     padding: 15px;
     margin-left: 12%;   
     margin-top: 0em;
+    box-shadow: 2px 2px;
 }
 .git{
     width: 100px;
